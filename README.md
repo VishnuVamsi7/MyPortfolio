@@ -30,11 +30,31 @@ Passionate about Data Science and Machine Learning, I specialize in using statis
 
 ## Skills
 
-- **Programming Languages:** Python, R, SQL
-- **Data Analysis:**
-  - Exploratory Data Analysis (EDA)
-  - MS Excel
-- **Data Visualization:** Tableau, Matplotlib
+### Programming Languages
+- Python
+- R
+- SQL
+- MATLAB Programming
+
+### Data Analysis
+- Exploratory Data Analysis (EDA)
+- MS Excel
+
+### Data Visualization
+- Tableau
+- Matplotlib
+
+### Machine Learning
+- Feature Engineering & Modeling
+- TensorFlow
+- PyTorch
+
+### Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+
+Feel free to reach out if you have any questions or need further information about these skills!
+
 
 ## Certifications
 
@@ -45,19 +65,33 @@ Passionate about Data Science and Machine Learning, I specialize in using statis
    - *Perfect e-Learning*
 
 3. **Machine Learning A-Z™: Hands-On Python and R In Data Science**
-   - *JPMorgan Chase & Co. Logo*
+   - *Udemy*
+
+4. **JPMorgan Chase & Co. Logo Excel Skills**
+   - *Forage*
+
 
 ## Professional Experience
 
-- **Data Science Intern - Yoshops**
-  - April 2023 - June 2023
-  - Demonstrated strong data analysis skills, generating dynamic reports with actionable insights.
-  - Managed diverse projects, showcasing project management skills in web scraping and database creation.
+### Data Science Intern - Yoshops
+- **Duration**: April 2023 - June 2023
+- **Overview**:
+  - Automated data validation processes, enhancing workflow efficiency and accuracy.
+  - Utilized Python to identify missing product images and generated detailed Excel files.
+  - Conducted in-depth analysis of battery health using MATLAB.
+  - Developed a practical health assessment metric.
+  - Improved the accuracy of predictive models through various techniques.
 
-- **Machine Learning Research Intern - SRM University**
-  - April 2022 - November 2022
-  - Contributed to battery health diagnosis using the optimized GPR algorithm.
-  - Conducted experiments to validate the GPR model's accuracy in estimating battery State of Health (SOH).
+### Machine Learning Research Intern - SRM UNIVERSITY
+- **Duration**: April 2022 - November 2022
+- **Overview**:
+  - Proficiently utilized MATLAB for an in-depth Li-ion battery health analysis project.
+  - Conducted rigorous data preprocessing and feature selection, resulting in a critical health assessment variable.
+  - Explored diverse Gaussian Process Regression (GPR) kernels, significantly enhancing the regression model's accuracy.
+  - Successfully demonstrated the model's real-world application in predicting battery health.
+
+These experiences showcase my abilities in data analysis, automation, and advanced machine learning, emphasizing my capacity to drive process enhancements and address complex challenges effectively. If you have specific questions or require further information, please feel free to reach out.
+
 
 ## Projects
 
@@ -111,7 +145,3 @@ Passionate about Data Science and Machine Learning, I specialize in using statis
 
 
 Feel free to reach out for further information or discussions!
-
---- 
-
-Feel free to customize this template according to your preferences. Add or remove sections as needed to make it a true reflection of your resume.
