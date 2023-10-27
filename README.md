@@ -90,7 +90,7 @@ Feel free to reach out if you have any questions or need further information abo
   - Explored diverse Gaussian Process Regression (GPR) kernels, significantly enhancing the regression model's accuracy.
   - Successfully demonstrated the model's real-world application in predicting battery health.
 
-These experiences showcase my abilities in data analysis, automation, and advanced machine learning, emphasizing my capacity to drive process enhancements and address complex challenges effectively. If you have specific questions or require further information, please feel free to reach out.
+These experiences showcase my abilities in data analysis, automation, and advanced machine learning, emphasizing my capacity to drive process enhancements and address complex challenges effectively.
 
 
 ## Projects
