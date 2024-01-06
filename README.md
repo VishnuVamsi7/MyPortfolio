@@ -101,10 +101,12 @@ These experiences showcase my abilities in data analysis, automation, and advanc
   - **Demonstrated expertise** in cutting-edge technologies by seamlessly connecting transformer architecture with stable diffusion, generating high-quality         images from textual descriptions.
   - **Collaborated with team members** to achieve project milestones, utilizing GPU acceleration, CUDA, and data preprocessing techniques.
 
-2. [**Night-Patrolling Mechanism Using Object Detection**]([url](https://github.com/VishnuVamsi7/Night-Objects---Detection-Using-TensorFlow))
+2. [**Night-Patrolling Mechanism Using Object Detection**](https://github.com/VishnuVamsi7/Night-Objects---Detection-Using-TensorFlow)
   - **Developed and implemented** an object detection solution utilizing TensorFlow, TensorFlow Hub, and image processing techniques to achieve accurate detection and classification of objects.
   - **Integrated and utilized** pre-trained models from the TensorFlow Hub to expedite the development and enhance the efficiency of the object detection system.
   - **Employed TensorFlow's extensive library** of functions and tools for preprocessing and manipulating images, ensuring seamless compatibility with the object detection model.
+
+
 
 ## Hobbies
 
